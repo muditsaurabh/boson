@@ -92,6 +92,8 @@
     "electron-debug": "^0.5.1",
     "font-awesome": "^4.4.0",
     "react": "^0.14.2",
+    "react-ace": "git+https://github.com/muditsaurabh/react-ace.git",
+    "react-desktop": "git+https://github.com/muditsaurabh/react-desktop.git",
     "react-dom": "^0.14.2",
     "react-redux": "^4.0.5",
     "react-router": "^2.0.0",
